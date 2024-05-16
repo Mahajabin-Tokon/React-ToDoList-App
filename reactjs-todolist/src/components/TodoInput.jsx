@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function ToDoInput() {
+export default function TodoInput() {
   return (
-    <div>ToDoInput</div>
+    <div>TodoInput</div>
   )
 }

@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function ToDoList() {
+export default function TodoList() {
   return (
-    <div>ToDoList</div>
+    <div>TodoList</div>
   )
 }

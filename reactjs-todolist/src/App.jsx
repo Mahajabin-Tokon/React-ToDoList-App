@@ -1,14 +1,11 @@
-import ToDoInput from "./components/ToDoInput"
-import ToDoList from "./components/ToDoList"
+import TodoInput from './components/TodoInput'
 import "./index.css"
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <main>
-      <ToDoInput/>
-      <ToDoList/>
+      <TodoInput/>
     </main>
   )
 }
