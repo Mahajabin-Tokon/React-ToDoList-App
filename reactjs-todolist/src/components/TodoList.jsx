@@ -14,6 +14,7 @@ export default function TodoList(props) {
             </TodoCard>)
           }
         )
-      }</ul>
+      }
+    </ul>
   )
 }
